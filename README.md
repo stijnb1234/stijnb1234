@@ -3,6 +3,15 @@
 
 - 👨‍💻 All of my projects are available at [https://sbdplugins.nl](https://sbdplugins.nl)
 
+<p>
+    <a href="https://www.buymeacoffee.com/sbdevelopment"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sbdevelopment" /></a>
+</p>
+<br />
+<br />
+<br />
+
+[![@stijnb1234's Holopin board](https://holopin.me/stijnb1234)](https://holopin.io/@stijnb1234)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/stijn-bannink-795a741b6" target="blank">
@@ -63,21 +72,6 @@
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> Zapier</a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/sbdevelopment"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sbdevelopment" /></a>
-</p>
-<br />
-<br />
-<br />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stijnb1234&show_icons=true&locale=en&layout=compact" alt="stijnb1234" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stijnb1234&show_icons=true&locale=en&layout=compact" alt="stijnb1234" /></p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stijnb1234&show_icons=true&locale=en" alt="stijnb1234" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=stijnb1234&show_icons=true&locale=en" alt="stijnb1234" /></p>
