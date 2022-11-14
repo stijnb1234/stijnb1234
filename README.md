@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Stijn Bannink</h1>
-<h3>An 18 year old Java, C++ and Web developer</h3>
+<h3>A 19 year old Java, C++ and Web developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sbdplugins.nl](https://sbdplugins.nl)
 
