@@ -1,7 +1,8 @@
-# Hi there 👋, I'm Stijn Bannink
-
-## 💫 About Me:
-💬 19 years old<br>👨‍💻 Experienced in Java, C++ and Web development<br>🌐 View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech)
+# 💫 About Me:
+Hi there 👋, I'm Stijn Bannink<br>
+- 💬 19 years old
+- 👨‍💻 Experienced in Java, C++ and Web development
+- 🌐 View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/R6ax6z2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stijnbannink) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stijn-bannink) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7972413) 
