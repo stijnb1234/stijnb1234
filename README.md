@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋, I'm Stijn Bannink<br>
-- 💬 19 years old
+- 💬 20 years old
 - 👨‍💻 Experienced in Java, C++ and Web development
 - 🌐 View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech)
 
