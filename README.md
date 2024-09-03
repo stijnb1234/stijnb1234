@@ -4,7 +4,8 @@
 
 Hi there 👋, I'm Stijn!<br>
 - 💬 20 years old
-- 👨‍💻 10+ years experience in Java, C and C++, 10+ years experience in Web Development
+- 🧑‍💼 Embedded Software Engineer
+- 👨‍💻 5+ years experience in Java, C and C++, 10+ years experience in Web Development
 - 👨‍💻 Little experience in Python, Go, Rust, C# and more! (check out my Tech Stack)
 - 🌐 View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech) (#TODO)
 
