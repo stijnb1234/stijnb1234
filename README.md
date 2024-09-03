@@ -1,10 +1,12 @@
-# 💫 About Me:
-Hi there 👋, I'm Stijn Bannink<br>
-- 💬 20 years old
-- 👨‍💻 Experienced in Java, C++ and Web development
-- 🌐 View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstijnb1234%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+# 💫 About Me:
+
+Hi there 👋, I'm Stijn!<br>
+- 💬 20 years old
+- 👨‍💻 10+ years experience in Java, C and C++, 10+ years experience in Web Development
+- 👨‍💻 Little experience in Python, Go, Rust, C# and more! (check out my Tech Stack)
+- 🌐 View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech) (#TODO)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/R6ax6z2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stijnbannink) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stijn-bannink) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7972413) 
