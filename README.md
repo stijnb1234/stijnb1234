@@ -1,18 +1,33 @@
 # 🧑 About me:
 
-Hi there 👋, I'm Stijn Bannink (also known as `SBDeveloper`)!
+Hi there 👋! I'm Stijn Bannink (also known as `SBDeveloper`).
 - **Age:** 20
-- **Gender:** Men
-- **Country:** The Netherlands
-- **Favorite OS:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+- **Gender:** Male
+- **Location:** The Netherlands
+- **Preferred OS:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-## 👨‍💻 Experience:
+## 💻 Professional Experience:
 
-- 5+ years experience in Java, C and C++, 10+ years experience in Web Development
-- Little experience in Python, Go, Rust, C# and more! (check out my Tech Stack)
-- View my portfolio at [sbdevelopment.tech](https://sbdevelopment.tech) (#TODO)
+I'm a dedicated software developer with over 5 years of hands-on experience in embedded systems development, particulary with C and C++. Additionally, I have a solid foundation in Java, having worked with it extensively over the years.
 
-## 🌐 Socials:
+- **Embedded Development**: 5+ years of experience in C and C++
+- **Java Development**: 10+ years of experience in Java and with populair tools like Maven and Spring
+
+Beyond embedded and software development, I also have some self-taught experience with modern web technologies.
+
+- **Web Development**: 10+ years of experience in HTML5, PHP, CSS3 and JavaScript
+
+## 🚀 Areas of Interest:
+
+I am passionate about 3D printing and currently expanding my skills in 3D design. I am also actively learning PCB design and electrical schematics, which align with my interest in hardware development. Additionally, I have some experience in various programming languages, including Python, Go, Rust, and C#, which I continue to explore.
+
+- **3D Printing & Design**: Experienced with 3D printing, learning 3D modeling
+- **PCB & Electrical Schematics**: Actively developing skills in PCB design
+- **Other Programming Languages**: Basic familiarity with Python, Go, Rust, C#, and more
+
+## 🌐 Get in touch:
+
+I’m always open to connecting and having a conversation! Feel free to reach out through any of the following options:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stijn-bannink)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@sbdevelopment.tech)
