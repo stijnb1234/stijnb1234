@@ -8,22 +8,26 @@ Hi there 👋! I'm Stijn Bannink (also known as `SBDeveloper`).
 
 ## 💻 Professional Experience:
 
-I'm a dedicated software developer with over 5 years of hands-on experience in embedded systems development, particulary with C and C++. Additionally, I have a solid foundation in Java, having worked with it extensively over the years.
+I'm a dedicated software developer with over 5 years of hands-on experience in embedded systems development, particularly with C and C++. Additionally, I have a strong foundation in Java and modern web technologies.
 
 - **Embedded Development**: 5+ years of experience in C and C++
 - **Java Development**: 10+ years of experience in Java and with populair tools like Maven and Spring
-
-Beyond embedded and software development, I also have some self-taught experience with modern web technologies.
-
 - **Web Development**: 10+ years of experience in HTML5, PHP, CSS3 and JavaScript
+
+## 🏫 Learning:
+
+I'm constantly growing my skillset and currently focusing on the following areas:
+
+- **C# (.NET) Development:** Exploring C# and .NET for Software Development
+- **DevOps Principles:** Learning about Docker, Kubernetes, and microservices
 
 ## 🚀 Areas of Interest:
 
-I am passionate about 3D printing and currently expanding my skills in 3D design. I am also actively learning PCB design and electrical schematics, which align with my interest in hardware development. Additionally, I have some experience in various programming languages, including Python, Go, Rust, and C#, which I continue to explore.
+Beyond my professional work, I am passionate about 3D printing and hardware development. I am currently honing my skills in 3D design, PCB design, and electrical schematics. Additionally, I have some experience with various programming languages and enjoy exploring new technologies.
 
 - **3D Printing & Design**: Experienced with 3D printing, learning 3D modeling
 - **PCB & Electrical Schematics**: Actively developing skills in PCB design
-- **Other Programming Languages**: Basic familiarity with Python, Go, Rust, C#, and more
+- **Other Programming Languages**: Basic familiarity with Python, Go, Rust, and more
 
 ## 🌐 Get in touch:
 
