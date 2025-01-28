@@ -1,7 +1,7 @@
 # 🧑 About me:
 
 Hi there 👋! I'm Stijn Bannink (also known as `SBDeveloper`).
-- **Age:** 20
+- **Age:** 21
 - **Gender:** Male
 - **Location:** The Netherlands
 - **Preferred OS:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
